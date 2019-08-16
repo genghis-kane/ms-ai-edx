@@ -1,0 +1,501 @@
+City,StateProvinceName,CountryRegionName,BirthDate,Education,Occupation,Gender,MaritalStatus,HomeOwnerFlag,NumberCarsOwned,NumberChildrenAtHome,TotalChildren,YearlyIncome
+Fremont,California,United States,1/05/1945,Bachelors ,Management,F,S,0,2,0,5,86931
+Haney,British Columbia,Canada,10/04/1964,Bachelors ,Skilled Manual,M,M,1,2,2,4,100125
+Burbank,California,United States,1/12/1934,Graduate Degree,Management,F,M,1,2,0,4,103985
+Burlingame,California,United States,9/22/1958,Graduate Degree,Skilled Manual,M,M,1,0,0,4,127161
+Dunkerque,Nord,France,3/19/1965,High School,Manual,F,M,1,1,2,2,21876
+Spring Valley,California,United States,8/23/1957,Partial College,Clerical,F,M,1,1,0,1,44467
+N. Vancouver,British Columbia,Canada,7/05/1964,Bachelors ,Skilled Manual,M,S,1,2,2,4,77702
+Cranbourne,Victoria,Australia,12/11/1964,Bachelors ,Professional,M,M,1,3,4,4,99418
+Tremblay-en-France,Seine Saint Denis,France,1/21/1966,Partial High School,Manual,M,S,1,1,4,4,13522
+Hannover,Nordrhein-Westfalen,Germany,9/13/1973,Bachelors ,Skilled Manual,F,M,1,1,1,1,46264
+Royal Oak,British Columbia,Canada,10/27/1955,High School,Professional,F,S,1,1,1,2,96375
+N. Vancouver,British Columbia,Canada,6/14/1956,Partial College,Professional,F,M,1,2,0,3,77688
+Oregon City,Oregon,United States,1/26/1956,High School,Skilled Manual,M,M,1,2,0,2,52127
+Metchosin,British Columbia,Canada,2/20/1949,High School,Professional,F,M,1,2,0,4,60978
+Lemon Grove,California,United States,8/10/1979,Partial College,Skilled Manual,F,S,1,1,0,0,36915
+Woodland Hills,California,United States,8/18/1966,Graduate Degree,Professional,F,M,1,0,0,0,86445
+Concord,California,United States,8/22/1959,Graduate Degree,Skilled Manual,M,M,1,0,0,4,113658
+Corvallis,Oregon,United States,3/10/1957,Partial High School,Skilled Manual,M,S,1,2,0,2,83326
+Matraville,New South Wales,Australia,10/21/1973,Partial College,Management,F,S,1,3,5,5,142823
+Colombes,Hauts de Seine,France,5/26/1964,Partial College,Clerical,F,S,1,2,2,2,42704
+Cheltenham,England,United Kingdom,5/27/1973,Partial High School,Manual,M,M,1,2,0,0,31323
+Ingolstadt,Bayern,Germany,10/15/1963,Bachelors ,Skilled Manual,M,M,1,0,0,1,61350
+Brisbane,Queensland,Australia,7/07/1973,Partial High School,Professional,M,M,1,4,5,5,148087
+Burien,Washington,United States,5/24/1966,Graduate Degree,Skilled Manual,M,M,1,0,0,0,112248
+Lake Oswego,Oregon,United States,3/13/1969,Graduate Degree,Professional,F,M,0,0,0,5,94217
+Burlingame,California,United States,11/07/1937,Graduate Degree,Management,M,S,1,2,0,4,122711
+Colma,California,United States,10/17/1970,Bachelors ,Skilled Manual,M,M,1,1,1,1,58716
+Victoria,British Columbia,Canada,4/06/1963,Partial College,Professional,M,S,1,2,3,4,128140
+Goulburn,New South Wales,Australia,6/28/1963,Bachelors ,Professional,M,S,0,1,0,0,101320
+Burlingame,California,United States,11/20/1968,Graduate Degree,Management,F,M,1,3,0,1,150227
+Concord,California,United States,5/23/1968,Bachelors ,Skilled Manual,F,S,1,1,2,2,85726
+Oakland,California,United States,5/15/1968,Bachelors ,Management,M,S,0,1,0,0,125452
+Malabar,New South Wales,Australia,1/09/1942,Bachelors ,Management,F,M,1,2,0,2,50463
+Berkeley,California,United States,11/06/1944,Bachelors ,Management,M,S,1,2,0,5,91982
+Saint-Denis,Seine Saint Denis,France,8/03/1956,Partial College,Professional,F,M,1,4,4,4,135619
+Burbank,California,United States,8/24/1975,Partial College,Clerical,M,S,1,0,3,3,62347
+Coffs Harbour,New South Wales,Australia,8/22/1972,Partial College,Management,M,M,1,3,5,5,157083
+Beverly Hills,California,United States,3/24/1971,Graduate Degree,Skilled Manual,M,M,1,0,1,1,92155
+Warrnambool,Victoria,Australia,2/21/1975,Bachelors ,Professional,F,M,0,2,0,0,111592
+Milwaukie,Oregon,United States,2/05/1970,Bachelors ,Skilled Manual,M,M,1,1,1,1,61015
+Santa Cruz,California,United States,6/11/1968,Bachelors ,Professional,F,S,0,1,0,0,86042
+Milton Keynes,England,United Kingdom,11/21/1964,Partial High School,Manual,M,S,1,2,2,3,16149
+Burbank,California,United States,4/11/1977,Partial College,Skilled Manual,M,M,1,2,0,0,89009
+London,England,United Kingdom,11/16/1968,Graduate Degree,Clerical,F,M,1,0,0,0,71664
+Saarlouis,Saarland,Germany,9/24/1973,Bachelors ,Skilled Manual,F,M,1,1,1,1,54946
+Westminster,British Columbia,Canada,7/19/1967,Partial College,Skilled Manual,M,M,0,1,0,0,61296
+Paris,Seine (Paris),France,12/23/1965,High School,Manual,F,M,0,1,2,2,26298
+Renton,Washington,United States,7/03/1965,Bachelors ,Skilled Manual,F,S,0,2,3,3,121950
+Berkeley,California,United States,6/11/1965,Bachelors ,Management,M,M,1,3,2,2,165094
+Solingen,Nordrhein-Westfalen,Germany,2/23/1961,Graduate Degree,Clerical,M,M,1,0,0,4,87346
+Westminster,British Columbia,Canada,5/27/1939,Graduate Degree,Management,M,M,1,2,0,3,122359
+Coffs Harbour,New South Wales,Australia,10/02/1964,Bachelors ,Professional,F,M,0,2,4,4,80468
+Grossmont,California,United States,8/02/1965,Bachelors ,Management,F,M,1,4,2,3,131206
+Vancouver,British Columbia,Canada,9/16/1953,High School,Manual,M,M,0,2,0,2,20427
+Salem,Oregon,United States,8/15/1955,High School,Professional,F,M,0,2,0,2,63991
+London,England,United Kingdom,10/10/1962,Bachelors ,Skilled Manual,M,M,1,1,0,1,63830
+Issaquah,Washington,United States,7/06/1948,Partial College,Professional,F,M,1,1,1,2,66343
+Berkeley,California,United States,2/10/1973,Partial College,Skilled Manual,M,S,0,2,0,0,86825
+Rockhampton,Queensland,Australia,2/10/1946,High School,Skilled Manual,M,M,0,2,0,4,17410
+Frankfurt,Hessen,Germany,6/26/1979,Partial College,Clerical,M,S,0,1,0,0,57913
+Lille,Nord,France,4/21/1968,Bachelors ,Clerical,F,M,1,0,0,1,48202
+Lake Oswego,Oregon,United States,3/10/1954,Partial High School,Clerical,M,M,0,2,0,3,19745
+Cliffside,British Columbia,Canada,4/20/1947,Partial College,Professional,M,M,1,1,1,2,88827
+Sooke,British Columbia,Canada,5/06/1963,Partial College,Professional,F,S,0,2,3,4,101507
+Orleans,Loiret,France,6/08/1968,Partial College,Manual,F,S,1,1,1,1,23910
+Marysville,Washington,United States,11/04/1965,Bachelors ,Skilled Manual,F,S,1,2,3,3,92860
+North Ryde,New South Wales,Australia,3/12/1972,Bachelors ,Professional,M,S,1,3,0,0,121541
+Warrnambool,Victoria,Australia,5/05/1969,Graduate Degree,Management,M,M,1,1,4,4,141619
+Metchosin,British Columbia,Canada,7/05/1979,Partial High School,Clerical,M,S,0,2,0,0,39565
+Lancaster,England,United Kingdom,12/26/1955,Partial College,Professional,F,M,1,3,4,4,139299
+Sooke,British Columbia,Canada,4/02/1959,Bachelors ,Professional,F,M,1,0,3,4,82733
+Salem,Oregon,United States,8/12/1936,Graduate Degree,Management,M,M,1,2,0,2,66790
+Puyallup,Washington,United States,7/21/1949,Partial College,Professional,M,M,0,2,1,2,102700
+Shawnee,British Columbia,Canada,8/06/1959,Partial College,Clerical,F,M,0,1,0,2,46284
+Bendigo,Victoria,Australia,10/09/1944,Partial College,Clerical,M,S,1,2,0,2,56823
+Bremerton,Washington,United States,2/14/1960,High School,Professional,F,S,1,3,3,4,102763
+Berks,England,United Kingdom,3/12/1978,Partial College,Clerical,M,S,1,2,4,4,63530
+Renton,Washington,United States,5/10/1965,Bachelors ,Skilled Manual,F,S,0,3,3,3,38524
+Cloverdale,South Australia,Australia,5/13/1970,Bachelors ,Professional,F,M,1,0,0,2,122214
+Milwaukie,Oregon,United States,8/22/1974,Partial College,Professional,F,M,1,2,0,0,58812
+Concord,California,United States,4/24/1965,Bachelors ,Skilled Manual,F,M,1,3,3,3,96408
+Melton,Victoria,Australia,11/15/1957,Partial College,Skilled Manual,M,S,0,1,0,1,80326
+Verrieres Le Buisson,Essonne,France,9/22/1960,Graduate Degree,Clerical,F,M,1,0,0,3,65596
+Santa Monica,California,United States,4/13/1965,Bachelors ,Management,M,S,0,2,0,0,170887
+West Sussex,England,United Kingdom,5/10/1966,Bachelors ,Clerical,M,M,1,1,1,1,57415
+La Jolla,California,United States,10/09/1957,Partial High School,Clerical,F,M,1,2,1,2,19824
+N. Vancouver,British Columbia,Canada,8/20/1966,Graduate Degree,Professional,M,M,1,0,0,4,108839
+Bellflower,California,United States,8/11/1961,Bachelors ,Management,M,S,0,3,3,3,163183
+Colombes,Hauts de Seine,France,5/25/1967,High School,Manual,M,S,1,1,3,3,40146
+Burlingame,California,United States,6/14/1968,Bachelors ,Management,F,M,1,1,0,0,107111
+Bellingham,Washington,United States,4/19/1940,Bachelors ,Management,F,M,1,2,0,4,113337
+Port Macquarie,New South Wales,Australia,9/11/1961,Partial College,Skilled Manual,F,M,1,3,4,5,81034
+Bothell,Washington,United States,9/06/1953,Graduate Degree,Management,F,S,1,2,0,3,72787
+Burien,Washington,United States,6/03/1958,Graduate Degree,Skilled Manual,F,S,1,0,0,4,102945
+Woolston,England,United Kingdom,2/18/1973,Partial High School,Manual,F,M,0,2,0,0,20560
+Tremblay-en-France,Seine Saint Denis,France,3/26/1955,Partial College,Professional,M,M,1,4,4,4,161140
+Pantin,Seine Saint Denis,France,2/12/1980,Partial High School,Manual,M,S,0,2,0,0,16588
+Lemon Grove,California,United States,10/21/1973,Graduate Degree,Skilled Manual,F,M,1,0,0,1,73662
+Newcastle,New South Wales,Australia,9/22/1952,High School,Skilled Manual,F,M,1,2,0,3,57023
+Springwood,New South Wales,Australia,8/15/1962,Bachelors ,Professional,F,M,1,1,0,1,89625
+Sydney,New South Wales,Australia,7/13/1971,High School,Management,F,M,0,3,5,5,89770
+Portland,Oregon,United States,4/24/1938,Graduate Degree,Management,M,S,0,2,0,3,118636
+Concord,California,United States,7/27/1959,Partial College,Skilled Manual,F,M,1,1,0,1,71702
+Bellflower,California,United States,4/26/1962,Bachelors ,Management,M,S,0,1,3,3,154515
+Beaverton,Oregon,United States,8/14/1966,Graduate Degree,Professional,M,M,1,0,0,4,114039
+San Diego,California,United States,12/20/1951,Partial College,Professional,M,M,1,1,2,4,98023
+Frankfurt,Bayern,Germany,7/07/1974,Partial High School,Manual,F,S,0,1,0,0,21984
+Santa Cruz,California,United States,1/19/1942,Bachelors ,Management,F,S,1,2,0,5,107067
+Spokane,Washington,United States,7/18/1974,Partial College,Professional,F,S,0,2,0,0,87337
+North Ryde,New South Wales,Australia,11/02/1966,Graduate Degree,Management,F,M,1,1,0,0,143858
+Sooke,British Columbia,Canada,12/04/1961,Partial College,Professional,F,M,1,3,4,5,84569
+Royal Oak,British Columbia,Canada,10/23/1971,Graduate Degree,Skilled Manual,F,S,1,0,0,1,92946
+Burlingame,California,United States,6/17/1959,Bachelors ,Professional,F,M,1,1,3,4,83958
+Brisbane,Queensland,Australia,10/13/1954,Partial High School,Clerical,M,S,1,2,0,3,39320
+Downey,California,United States,8/25/1979,Partial College,Skilled Manual,M,M,0,1,0,0,61300
+Marysville,Washington,United States,2/22/1952,High School,Professional,M,S,1,2,1,2,93527
+Beverly Hills,California,United States,4/19/1977,Partial High School,Clerical,F,S,1,2,0,0,46297
+Daly City,California,United States,6/03/1980,Partial College,Skilled Manual,F,S,0,2,0,0,53441
+Gold Coast,Queensland,Australia,9/21/1955,High School,Skilled Manual,F,S,0,2,0,2,88333
+Everett,Washington,United States,5/10/1957,Partial College,Professional,M,S,1,0,1,2,98760
+Melton,Victoria,Australia,8/10/1961,Partial College,Skilled Manual,M,M,1,3,4,5,86846
+Lebanon,Oregon,United States,5/14/1960,High School,Professional,F,M,1,3,3,4,100001
+Haney,British Columbia,Canada,1/05/1956,Partial College,Professional,M,S,1,1,0,3,122694
+Burlingame,California,United States,3/04/1944,Partial High School,Clerical,F,M,0,2,0,5,31139
+La Jolla,California,United States,2/06/1977,Partial College,Skilled Manual,M,S,0,2,0,0,101616
+Lake Oswego,Oregon,United States,4/26/1952,High School,Professional,F,M,1,2,1,3,61458
+Coffs Harbour,New South Wales,Australia,8/03/1954,Partial High School,Clerical,M,S,0,2,0,3,47048
+Issaquah,Washington,United States,5/08/1966,Graduate Degree,Skilled Manual,M,M,0,0,0,0,140321
+Colombes,Hauts de Seine,France,9/22/1965,High School,Manual,M,S,1,1,2,2,40997
+Chula Vista,California,United States,10/25/1937,Graduate Degree,Management,M,M,1,3,3,3,174134
+Coronado,California,United States,6/06/1977,High School,Skilled Manual,F,S,0,2,0,0,40926
+London,England,United Kingdom,12/27/1969,High School,Manual,M,M,1,0,2,2,18156
+Royal Oak,British Columbia,Canada,4/23/1968,High School,Skilled Manual,M,M,1,3,4,4,64285
+Lemon Grove,California,United States,4/07/1973,Partial College,Professional,F,S,0,2,0,0,71487
+Portland,Oregon,United States,6/11/1956,Partial College,Professional,F,M,1,2,0,3,73600
+York,England,United Kingdom,10/13/1949,High School,Management,F,M,1,4,5,5,135451
+London,England,United Kingdom,1/27/1953,Partial College,Professional,M,M,0,2,5,5,165902
+Sunbury,Victoria,Australia,6/14/1960,Partial College,Skilled Manual,M,M,1,1,0,1,103153
+West Covina,California,United States,7/04/1949,Partial College,Professional,M,S,1,2,1,5,88798
+Burnaby,British Columbia,Canada,1/25/1969,Graduate Degree,Professional,M,M,1,0,0,2,101566
+Darlinghurst,New South Wales,Australia,4/04/1966,Bachelors ,Professional,M,M,1,0,0,0,127995
+Issaquah,Washington,United States,2/18/1957,High School,Skilled Manual,F,M,1,2,0,2,41243
+N. Vancouver,British Columbia,Canada,1/11/1941,Graduate Degree,Management,M,M,1,3,3,3,131992
+Los Angeles,California,United States,10/22/1980,Partial College,Skilled Manual,F,S,0,2,0,0,30029
+Sooke,British Columbia,Canada,3/02/1955,High School,Professional,F,S,1,0,3,4,79991
+Oak Bay,British Columbia,Canada,4/28/1952,High School,Professional,F,M,1,2,1,3,80286
+Caloundra,Queensland,Australia,8/04/1960,Partial College,Skilled Manual,F,M,1,1,0,1,77745
+Ingolstadt,Bayern,Germany,6/05/1961,Bachelors ,Manual,F,M,1,0,0,1,16358
+Lille,Nord,France,11/23/1975,Partial High School,Manual,M,M,0,2,0,0,12393
+Cliffside,British Columbia,Canada,11/05/1978,High School,Skilled Manual,M,S,0,2,0,0,36426
+Shawnee,British Columbia,Canada,7/06/1968,Partial College,Skilled Manual,F,M,1,2,4,4,94374
+Vancouver,British Columbia,Canada,4/05/1979,Partial High School,Clerical,M,M,0,2,0,0,35783
+Chula Vista,California,United States,5/25/1959,Partial College,Clerical,M,S,1,1,0,2,56435
+Langley,British Columbia,Canada,11/22/1953,Bachelors ,Skilled Manual,M,M,1,1,0,1,71123
+Coffs Harbour,New South Wales,Australia,8/10/1958,Bachelors ,Management,M,M,1,3,1,4,173183
+Newton,British Columbia,Canada,10/18/1979,Partial High School,Clerical,F,S,0,2,0,0,38150
+La Jolla,California,United States,7/21/1971,Graduate Degree,Professional,M,S,0,0,0,3,97231
+Warrnambool,Victoria,Australia,5/19/1932,Partial College,Clerical,M,M,0,2,0,2,45511
+Findon,South Australia,Australia,7/08/1976,Bachelors ,Professional,M,S,0,3,0,0,113158
+Palo Alto,California,United States,6/10/1960,Partial College,Professional,F,M,1,2,3,3,137500
+Hervey Bay,Queensland,Australia,9/10/1944,High School,Skilled Manual,F,M,1,2,0,5,25568
+Santa Monica,California,United States,12/23/1976,Partial College,Skilled Manual,M,S,0,1,0,0,68194
+Spokane,Washington,United States,4/20/1969,Bachelors ,Skilled Manual,F,S,0,0,2,2,43139
+Shawnee,British Columbia,Canada,10/06/1961,High School,Skilled Manual,M,M,1,2,2,4,55895
+Port Orchard,Washington,United States,10/18/1969,Graduate Degree,Professional,F,M,1,2,5,5,92753
+Torrance,California,United States,8/20/1947,Bachelors ,Management,F,M,1,1,1,2,82058
+Burbank,California,United States,9/16/1961,Bachelors ,Management,F,M,1,3,3,3,157564
+Courbevoie,Hauts de Seine,France,6/22/1954,High School,Professional,M,S,0,1,2,4,121835
+Darlinghurst,New South Wales,Australia,6/25/1972,Bachelors ,Professional,M,M,0,3,0,0,140372
+Lemon Grove,California,United States,11/11/1977,Partial High School,Clerical,F,S,0,2,0,0,40421
+Croix,Nord,France,11/23/1962,Graduate Degree,Clerical,M,M,1,0,0,5,83491
+San Gabriel,California,United States,4/07/1953,Partial College,Professional,F,S,1,1,3,4,83254
+Townsville,Queensland,Australia,5/23/1956,High School,Skilled Manual,M,M,1,2,0,2,82419
+Renton,Washington,United States,1/19/1953,Graduate Degree,Management,M,M,1,2,0,3,109601
+Lille,Nord,France,3/05/1962,Graduate Degree,Clerical,F,S,1,0,0,4,60147
+Puyallup,Washington,United States,10/12/1954,Partial High School,Clerical,F,S,1,2,0,3,24276
+Melbourne,Victoria,Australia,8/10/1966,Graduate Degree,Management,F,M,1,3,5,5,112552
+Redwood City,California,United States,2/24/1957,High School,Skilled Manual,M,M,1,2,0,2,51376
+Melbourne,Victoria,Australia,1/09/1979,High School,Manual,F,M,1,0,1,1,20864
+Oxon,England,United Kingdom,8/14/1955,High School,Professional,M,M,1,3,4,4,141672
+Duesseldorf,Hessen,Germany,8/03/1941,Partial College,Manual,F,M,1,0,0,1,24399
+Ballard,Washington,United States,2/22/1954,Partial High School,Skilled Manual,F,S,0,2,0,2,56795
+Hobart,Tasmania,Australia,9/19/1967,Bachelors ,Professional,F,M,1,4,5,5,82264
+Warrnambool,Victoria,Australia,5/09/1937,Bachelors ,Management,M,M,1,2,0,2,82374
+Morangis,Essonne,France,2/03/1975,Partial High School,Manual,F,S,0,2,0,0,17342
+Saint Germain en Laye,Yveline,France,11/25/1966,Bachelors ,Professional,F,S,0,0,0,0,57835
+Concord,California,United States,5/19/1967,Bachelors ,Skilled Manual,F,S,0,1,2,2,50171
+Darmstadt,Hessen,Germany,6/06/1961,Bachelors ,Manual,M,M,0,0,0,1,17135
+Tacoma,Washington,United States,9/06/1961,Partial College,Skilled Manual,F,M,1,1,0,1,75962
+Frankfurt am Main,Saarland,Germany,11/17/1970,Partial College,Clerical,F,S,1,2,2,2,38778
+Redwood City,California,United States,1/02/1954,Partial High School,Skilled Manual,M,M,1,2,0,2,92307
+Carson,California,United States,8/13/1946,Bachelors ,Management,M,M,1,3,0,5,108017
+Duesseldorf,Hessen,Germany,7/02/1966,Bachelors ,Professional,M,M,1,0,0,0,63364
+Lake Oswego,Oregon,United States,2/24/1953,Graduate Degree,Management,M,M,1,2,0,3,119529
+Bellflower,California,United States,6/26/1940,Bachelors ,Management,F,M,1,4,3,3,139058
+Drancy,Seine Saint Denis,France,11/10/1952,Partial High School,Skilled Manual,F,M,1,2,2,5,69332
+Lebanon,Oregon,United States,12/25/1969,Graduate Degree,Professional,F,S,1,0,0,1,93395
+Paris,Seine (Paris),France,4/23/1966,Bachelors ,Professional,M,M,1,0,0,0,58400
+Langley,British Columbia,Canada,10/16/1939,Graduate Degree,Management,F,M,1,2,0,5,106486
+N. Vancouver,British Columbia,Canada,3/02/1968,Bachelors ,Management,F,S,1,1,4,4,111922
+Chula Vista,California,United States,10/24/1947,Partial College,Professional,F,M,1,1,1,2,69811
+Hobart,Tasmania,Australia,6/05/1957,High School,Skilled Manual,M,M,1,2,0,2,83382
+Billericay,England,United Kingdom,7/16/1957,Partial College,Manual,F,S,1,0,0,1,19905
+Milsons Point,New South Wales,Australia,4/10/1955,Partial College,Skilled Manual,M,S,1,2,0,2,109554
+Burbank,California,United States,4/20/1959,Bachelors ,Professional,M,M,1,1,4,5,113523
+Palo Alto,California,United States,3/15/1955,High School,Professional,M,M,0,2,0,2,99495
+Wollongong,New South Wales,Australia,9/08/1972,Partial College,Management,F,M,1,3,5,5,131508
+Berkeley,California,United States,3/05/1963,Bachelors ,Professional,M,S,1,2,2,4,93048
+Sunbury,Victoria,Australia,5/19/1953,Bachelors ,Management,M,S,1,1,0,2,67818
+Münster,Saarland,Germany,10/25/1979,Partial College,Clerical,F,S,0,1,3,3,43937
+Woodland Hills,California,United States,8/08/1961,Partial College,Skilled Manual,M,M,1,1,0,1,69562
+Warrington,England,United Kingdom,7/18/1970,High School,Manual,M,S,0,2,1,1,16065
+Santa Monica,California,United States,2/24/1964,Bachelors ,Skilled Manual,M,S,0,2,4,4,99165
+Brisbane,Queensland,Australia,2/04/1961,Partial College,Skilled Manual,F,S,0,1,0,1,65560
+Burien,Washington,United States,7/14/1967,Partial College,Skilled Manual,F,S,0,1,0,0,78067
+Geelong,Victoria,Australia,11/14/1976,Bachelors ,Professional,M,S,0,3,0,0,106878
+Lemon Grove,California,United States,3/23/1953,Bachelors ,Skilled Manual,F,M,1,1,0,1,50921
+Les Ulis,Essonne,France,12/10/1944,High School,Professional,F,M,0,2,1,5,69536
+Runcorn,England,United Kingdom,9/15/1966,Graduate Degree,Skilled Manual,M,S,0,0,0,0,117885
+Berlin,Hamburg,Germany,5/14/1967,Bachelors ,Clerical,M,S,1,1,1,1,60168
+Liverpool,England,United Kingdom,9/26/1973,Graduate Degree,Skilled Manual,F,S,1,0,0,0,58798
+Daly City,California,United States,7/21/1978,Partial College,Skilled Manual,M,S,0,2,0,0,92728
+Neunkirchen,Saarland,Germany,11/23/1946,Bachelors ,Management,F,M,0,4,4,4,141127
+Fremont,California,United States,3/25/1969,Bachelors ,Skilled Manual,F,S,0,0,2,2,77598
+Lavender Bay,New South Wales,Australia,5/27/1980,Partial College,Manual,M,S,0,1,0,0,19615
+Los Angeles,California,United States,12/11/1947,High School,Professional,F,M,1,2,0,4,65832
+Concord,California,United States,11/12/1951,Partial College,Professional,F,M,1,2,1,2,75228
+Lancaster,England,United Kingdom,6/06/1956,Partial College,Professional,F,S,0,3,4,4,143980
+Kiel,Saarland,Germany,12/02/1965,High School,Manual,M,S,1,0,2,2,21982
+Shawnee,British Columbia,Canada,5/09/1970,Graduate Degree,Skilled Manual,M,M,1,0,1,1,70602
+Darmstadt,Hessen,Germany,5/25/1970,Partial College,Clerical,M,S,1,1,2,2,53262
+Lynnwood,Washington,United States,11/19/1939,Graduate Degree,Management,F,M,1,2,0,3,112110
+Kirkland,Washington,United States,10/21/1976,High School,Skilled Manual,M,M,1,2,0,0,49490
+Essen,Hamburg,Germany,9/07/1958,Bachelors ,Manual,M,M,1,0,0,1,28276
+Redmond,Washington,United States,3/02/1962,Partial College,Professional,M,M,1,3,2,2,111398
+Lancaster,England,United Kingdom,11/06/1971,Partial High School,Manual,M,M,1,2,0,0,32783
+Frankfurt,Hessen,Germany,6/16/1967,High School,Manual,M,S,1,1,3,3,18645
+Issaquah,Washington,United States,7/20/1972,Bachelors ,Skilled Manual,M,M,1,0,1,1,99245
+Olympia,Washington,United States,7/21/1964,Bachelors ,Professional,F,S,0,1,0,0,62515
+South Melbourne,Victoria,Australia,12/26/1947,Partial College,Clerical,M,M,0,2,0,2,58022
+Lemon Grove,California,United States,3/18/1949,Partial College,Professional,M,S,1,0,1,2,97815
+Paris,Seine (Paris),France,9/09/1951,High School,Professional,F,M,1,3,1,4,96315
+Erlangen,Bayern,Germany,12/20/1969,Bachelors ,Clerical,F,S,0,0,0,1,43725
+Reading,England,United Kingdom,6/13/1957,Partial College,Manual,M,S,1,0,0,1,15222
+Mill Valley,California,United States,6/23/1963,Graduate Degree,Professional,F,S,0,0,2,3,94283
+Werne,Nordrhein-Westfalen,Germany,5/24/1967,Bachelors ,Clerical,F,M,0,0,0,0,55884
+Tremblay-en-France,Seine Saint Denis,France,3/23/1968,Bachelors ,Clerical,M,M,1,0,0,1,66952
+Metchosin,British Columbia,Canada,9/07/1979,Partial High School,Clerical,M,S,0,2,0,0,61985
+München,Hessen,Germany,2/14/1944,Graduate Degree,Management,F,S,0,4,3,3,127056
+Ballard,Washington,United States,2/03/1947,Partial College,Professional,M,S,1,1,1,2,95610
+Lemon Grove,California,United States,8/18/1959,Graduate Degree,Professional,F,M,1,3,5,5,92925
+Esher-Molesey,England,United Kingdom,2/14/1975,Bachelors ,Skilled Manual,F,M,1,0,1,1,47923
+Erlangen,Bayern,Germany,6/25/1963,Partial High School,Manual,F,S,1,2,2,3,16512
+Mill Valley,California,United States,5/21/1937,Graduate Degree,Management,F,M,1,2,0,3,57395
+Les Ulis,Essonne,France,9/16/1953,Bachelors ,Management,M,M,1,3,4,4,129349
+Burlingame,California,United States,6/25/1960,Partial College,Professional,F,M,0,4,3,3,133373
+Townsville,Queensland,Australia,9/18/1955,High School,Skilled Manual,F,M,1,2,0,2,81236
+Milwaukie,Oregon,United States,6/14/1956,Partial High School,Skilled Manual,M,S,0,2,0,2,114278
+Tremblay-en-France,Seine Saint Denis,France,5/27/1953,Bachelors ,Management,M,S,0,4,4,4,127886
+Novato,California,United States,9/13/1977,Partial College,Skilled Manual,M,M,0,2,0,0,86806
+East Brisbane,Queensland,Australia,4/27/1939,Partial College,Clerical,F,M,0,2,0,2,45972
+Burlingame,California,United States,3/07/1975,High School,Skilled Manual,M,S,0,2,0,0,57252
+Issaquah,Washington,United States,5/14/1963,Bachelors ,Management,F,M,1,0,3,4,107130
+Portland,Oregon,United States,12/11/1977,Partial College,Skilled Manual,M,S,0,1,0,0,46556
+London,England,United Kingdom,6/13/1978,Partial College,Clerical,F,S,1,3,4,4,42607
+Rhodes,New South Wales,Australia,4/19/1968,Bachelors ,Professional,F,S,0,1,2,2,86868
+Bellingham,Washington,United States,11/26/1954,Partial High School,Skilled Manual,F,S,0,2,0,2,74037
+Bendigo,Victoria,Australia,10/23/1963,Bachelors ,Professional,M,S,0,2,0,0,101916
+Chula Vista,California,United States,1/16/1965,Bachelors ,Management,M,S,0,3,2,2,166027
+Oakland,California,United States,10/12/1949,Partial College,Professional,F,M,1,2,1,4,74722
+Rockhampton,Queensland,Australia,9/20/1966,Bachelors ,Professional,F,S,0,4,5,5,125967
+Saint Ouen,Loir et Cher,France,8/09/1969,Graduate Degree,Clerical,F,S,0,0,0,0,63683
+Issaquah,Washington,United States,10/02/1968,Bachelors ,Management,M,M,1,3,0,2,123254
+Burien,Washington,United States,1/13/1958,Partial College,Clerical,M,S,0,1,0,2,46217
+Berkeley,California,United States,3/03/1957,Partial College,Professional,M,M,1,0,2,3,98101
+Perth,South Australia,Australia,7/24/1978,Bachelors ,Clerical,F,M,1,0,0,0,27721
+Cheltenham,England,United Kingdom,12/11/1956,Partial High School,Professional,M,M,0,4,4,4,159590
+Milwaukie,Oregon,United States,9/19/1957,Partial College,Professional,F,S,1,1,0,2,106259
+Erlangen,Bayern,Germany,7/02/1979,High School,Manual,M,S,1,3,5,5,30684
+Concord,California,United States,9/03/1975,High School,Skilled Manual,M,M,1,1,0,0,57466
+Concord,California,United States,9/03/1948,Partial College,Professional,M,M,1,2,1,2,90264
+Versailles,Yveline,France,8/20/1945,High School,Professional,F,M,1,3,1,5,80264
+National City,California,United States,7/08/1974,Partial College,Skilled Manual,M,M,1,1,0,0,45164
+Berks,England,United Kingdom,9/08/1980,Partial High School,Manual,M,S,0,2,0,0,13224
+Roubaix,Nord,France,9/04/1970,High School,Manual,F,S,1,0,2,2,11357
+Milton Keynes,England,United Kingdom,5/03/1971,Partial High School,Manual,F,S,0,2,0,0,15482
+Mill Valley,California,United States,10/25/1975,Partial College,Skilled Manual,M,S,1,2,0,0,86484
+Salzgitter,Hessen,Germany,9/20/1943,Bachelors ,Clerical,F,M,1,0,0,1,44451
+North Sydney,New South Wales,Australia,9/27/1958,Bachelors ,Management,F,S,0,3,0,1,93580
+Suresnes,Hauts de Seine,France,7/03/1959,High School,Manual,M,S,0,1,1,1,15162
+Paris,Seine (Paris),France,6/27/1962,Graduate Degree,Clerical,M,M,1,0,0,4,78757
+Olympia,Washington,United States,8/21/1971,Graduate Degree,Professional,F,M,1,0,0,1,78748
+Concord,California,United States,4/09/1970,Bachelors ,Skilled Manual,M,M,1,1,1,1,57262
+Olympia,Washington,United States,8/17/1969,Graduate Degree,Professional,M,M,1,2,5,5,120279
+Paris La Defense,Hauts de Seine,France,12/08/1959,Bachelors ,Clerical,M,M,1,0,0,0,57417
+Lemon Grove,California,United States,5/27/1962,Bachelors ,Management,M,S,0,4,2,2,170339
+Münster,Saarland,Germany,1/05/1957,Partial College,Professional,M,M,1,2,4,4,156936
+Darmstadt,Hessen,Germany,9/25/1976,Partial High School,Manual,F,M,0,2,0,0,29264
+W. Linn,Oregon,United States,11/01/1959,Partial College,Clerical,M,S,0,1,0,2,44536
+Saint-Denis,Seine Saint Denis,France,1/24/1943,Partial College,Manual,F,M,1,0,0,2,15192
+Matraville,New South Wales,Australia,8/08/1964,Bachelors ,Professional,F,S,0,1,0,0,84815
+Burien,Washington,United States,7/27/1970,Bachelors ,Skilled Manual,F,M,1,1,1,1,48814
+Bellflower,California,United States,6/08/1937,Graduate Degree,Management,M,S,1,4,3,3,174979
+Glendale,California,United States,4/17/1964,Bachelors ,Skilled Manual,M,M,0,2,2,4,83972
+Colma,California,United States,5/01/1947,Bachelors ,Management,M,M,1,3,0,5,92092
+Wollongong,New South Wales,Australia,11/05/1978,Bachelors ,Clerical,F,S,0,0,0,0,28631
+Roubaix,Nord,France,11/12/1957,Partial College,Professional,F,S,0,3,4,4,136345
+Brisbane,Queensland,Australia,3/20/1967,Graduate Degree,Management,M,M,1,2,5,5,146136
+W. Linn,Oregon,United States,1/23/1959,Bachelors ,Professional,M,M,1,1,4,5,81701
+Concord,California,United States,10/08/1966,Bachelors ,Management,F,S,0,3,2,2,141543
+Saint Germain en Laye,Yveline,France,4/03/1974,Partial College,Clerical,F,S,0,1,0,0,56926
+Goulburn,New South Wales,Australia,3/12/1968,Bachelors ,Professional,F,M,1,3,5,5,82457
+Milton Keynes,England,United Kingdom,6/24/1953,Partial College,Professional,M,M,1,2,5,5,162339
+Beverly Hills,California,United States,2/15/1966,Graduate Degree,Professional,F,M,1,0,0,5,95285
+Kirkland,Washington,United States,5/25/1954,Partial High School,Skilled Manual,M,M,0,2,0,2,86037
+Oregon City,Oregon,United States,5/11/1976,High School,Skilled Manual,F,M,1,2,0,0,40322
+Burien,Washington,United States,6/10/1976,High School,Skilled Manual,F,S,1,2,0,0,36732
+München,Nordrhein-Westfalen,Germany,5/23/1951,High School,Professional,F,M,1,3,1,4,102964
+Saint Ouen,Charente-Maritime,France,5/17/1957,Partial College,Professional,M,M,0,3,4,4,174110
+Shawnee,British Columbia,Canada,8/18/1974,High School,Professional,M,M,0,2,0,0,51756
+Colma,California,United States,5/26/1954,High School,Clerical,M,M,1,1,0,1,48756
+Villeneuve-d'Ascq,Nord,France,7/18/1952,Partial College,Manual,M,M,0,1,0,2,24231
+Melton,Victoria,Australia,8/24/1944,High School,Skilled Manual,F,M,1,2,1,2,39899
+Corvallis,Oregon,United States,9/15/1946,High School,Professional,F,S,0,3,0,5,37932
+Gateshead,England,United Kingdom,7/17/1945,Bachelors ,Management,M,M,1,4,4,4,174465
+Courbevoie,Hauts de Seine,France,10/22/1943,Partial College,Manual,M,S,0,1,0,3,23574
+Hervey Bay,Queensland,Australia,6/07/1961,Partial College,Skilled Manual,F,S,1,1,0,1,66663
+Cloverdale,South Australia,Australia,7/21/1970,Bachelors ,Professional,M,S,0,4,0,0,126067
+Edmonds,Washington,United States,10/02/1970,Bachelors ,Skilled Manual,F,M,1,1,1,1,53076
+Port Macquarie,New South Wales,Australia,6/04/1968,Bachelors ,Professional,F,S,0,1,0,0,83631
+Berkeley,California,United States,5/07/1967,Graduate Degree,Management,M,S,0,1,0,0,179580
+Issaquah,Washington,United States,9/16/1971,Graduate Degree,Skilled Manual,M,M,1,0,0,1,100447
+Shawnee,British Columbia,Canada,3/07/1975,Partial College,Clerical,M,S,1,1,4,4,57598
+Oxford,England,United Kingdom,3/10/1965,Bachelors ,Skilled Manual,F,M,1,2,1,1,49490
+Oak Bay,British Columbia,Canada,3/24/1963,Bachelors ,Professional,F,S,1,2,2,4,94208
+London,England,United Kingdom,2/15/1949,Partial College,Management,F,M,0,4,5,5,140268
+Santa Cruz,California,United States,4/27/1967,Graduate Degree,Professional,M,S,0,1,0,0,114882
+Chula Vista,California,United States,4/26/1975,High School,Skilled Manual,F,S,0,2,0,0,43168
+Findon,South Australia,Australia,4/21/1964,Bachelors ,Professional,M,M,1,2,3,3,97455
+Warrnambool,Victoria,Australia,9/23/1955,High School,Skilled Manual,F,S,1,2,0,2,97067
+Portland,Oregon,United States,12/17/1948,Partial College,Professional,M,M,1,1,1,2,91953
+Hamburg,Hamburg,Germany,4/20/1963,Bachelors ,Skilled Manual,M,M,1,0,0,1,56259
+West Covina,California,United States,2/17/1979,Partial College,Skilled Manual,M,S,1,2,0,0,85419
+Sunbury,Victoria,Australia,10/27/1962,Bachelors ,Professional,M,S,1,1,0,1,99220
+Corvallis,Oregon,United States,9/27/1957,Partial College,Clerical,M,M,1,1,0,1,58684
+Oxford,England,United Kingdom,10/03/1954,Partial College,Manual,M,M,1,1,0,2,10588
+Renton,Washington,United States,7/11/1971,Graduate Degree,Professional,M,S,1,0,0,1,112760
+Salzgitter,Hessen,Germany,3/06/1973,Partial High School,Manual,M,S,0,2,0,0,11961
+Sunbury,Victoria,Australia,6/27/1968,Bachelors ,Professional,F,M,1,4,5,5,107070
+Portland,Oregon,United States,6/04/1943,Graduate Degree,Management,F,M,1,3,3,3,100008
+Cloverdale,South Australia,Australia,7/21/1958,Graduate Degree,Management,F,M,1,2,1,1,152975
+W. York,England,United Kingdom,4/02/1967,Bachelors ,Clerical,M,S,0,1,1,1,50308
+Santa Cruz,California,United States,9/13/1946,Bachelors ,Management,F,S,1,2,0,4,95773
+Cliffside,British Columbia,Canada,8/27/1960,High School,Skilled Manual,F,S,1,2,2,4,38145
+La Jolla,California,United States,5/15/1947,Bachelors ,Management,F,M,1,3,0,5,96231
+Goulburn,New South Wales,Australia,5/19/1969,Graduate Degree,Management,M,S,1,1,0,1,176859
+Redwood City,California,United States,4/08/1965,Bachelors ,Skilled Manual,F,S,1,2,3,3,105276
+Woodland Hills,California,United States,2/22/1952,High School,Professional,F,S,1,2,1,3,79068
+Drancy,Seine Saint Denis,France,5/06/1973,Partial High School,Manual,M,S,1,2,0,0,22875
+Kirkland,Washington,United States,4/22/1963,Partial College,Professional,F,M,1,1,0,0,92513
+Lavender Bay,New South Wales,Australia,4/16/1974,Partial College,Management,F,S,1,3,5,5,138417
+West Covina,California,United States,4/16/1964,Bachelors ,Professional,M,S,0,1,0,0,60462
+Coffs Harbour,New South Wales,Australia,4/25/1953,Partial College,Skilled Manual,M,M,1,2,0,3,63838
+Lemon Grove,California,United States,11/21/1963,Bachelors ,Professional,F,M,1,2,2,4,98371
+Cliffside,British Columbia,Canada,6/05/1979,Partial High School,Clerical,M,S,0,2,0,0,61302
+Bottrop,Nordrhein-Westfalen,Germany,9/17/1965,High School,Manual,F,M,1,2,2,2,23980
+Frankfurt am Main,Saarland,Germany,11/17/1969,Bachelors ,Clerical,F,S,0,0,0,0,66615
+San Gabriel,California,United States,11/13/1957,High School,Professional,F,M,1,2,0,2,82403
+Hof,Bayern,Germany,3/25/1967,Bachelors ,Clerical,F,M,1,0,0,0,45937
+Burbank,California,United States,10/03/1971,Graduate Degree,Skilled Manual,F,M,1,0,1,1,92479
+Bellingham,Washington,United States,5/16/1965,Partial College,Professional,M,S,1,3,5,5,119460
+York,England,United Kingdom,12/04/1943,Graduate Degree,Clerical,F,M,1,0,0,1,51042
+Langford,British Columbia,Canada,5/02/1972,Graduate Degree,Skilled Manual,M,M,0,0,1,1,86388
+Bracknell,England,United Kingdom,3/12/1968,Partial College,Manual,M,S,0,0,1,1,22071
+Milwaukie,Oregon,United States,6/13/1959,Bachelors ,Professional,F,M,1,1,3,4,81089
+Burien,Washington,United States,4/22/1962,Bachelors ,Professional,F,S,0,1,0,1,81033
+San Carlos,California,United States,10/04/1975,Partial College,Skilled Manual,M,S,0,2,0,0,93275
+High Wycombe,England,United Kingdom,10/16/1961,Graduate Degree,Clerical,F,M,1,0,0,1,49862
+Lake Oswego,Oregon,United States,2/05/1958,Partial College,Clerical,F,S,1,1,0,2,48706
+Gold Coast,Queensland,Australia,5/22/1973,High School,Management,M,S,1,4,5,5,145944
+Lake Oswego,Oregon,United States,10/23/1968,Bachelors ,Skilled Manual,M,S,1,1,2,2,86885
+Kirkland,Washington,United States,9/27/1961,Partial College,Professional,F,S,0,1,3,4,98215
+Paris,Seine (Paris),France,2/20/1971,Partial High School,Manual,F,S,1,2,0,0,17255
+Colma,California,United States,4/23/1935,Graduate Degree,Management,M,M,1,2,0,4,148161
+Geelong,Victoria,Australia,2/07/1963,Bachelors ,Professional,F,S,0,1,0,0,79606
+Marysville,Washington,United States,12/13/1947,High School,Professional,M,S,1,2,1,2,73315
+Berkeley,California,United States,11/22/1965,Bachelors ,Management,M,M,1,3,2,2,172780
+Bobigny,Seine Saint Denis,France,6/03/1967,Partial College,Manual,F,S,0,1,1,1,34734
+München,Hessen,Germany,9/20/1973,Bachelors ,Skilled Manual,M,M,1,1,1,1,67114
+Geelong,Victoria,Australia,5/08/1955,High School,Skilled Manual,M,S,1,2,0,2,121842
+Coronado,California,United States,11/13/1958,Graduate Degree,Skilled Manual,M,M,0,0,0,5,142248
+Colma,California,United States,4/17/1968,Bachelors ,Management,F,M,0,1,0,0,113066
+Metchosin,British Columbia,Canada,12/24/1975,Partial College,Clerical,M,M,0,0,4,4,57117
+Westminster,British Columbia,Canada,4/01/1980,High School,Skilled Manual,M,M,1,2,0,0,48123
+Melton,Victoria,Australia,4/21/1961,Partial College,Skilled Manual,F,S,0,1,0,1,78296
+Paderborn,Hamburg,Germany,4/12/1964,Bachelors ,Skilled Manual,M,M,1,0,0,1,62923
+Everett,Washington,United States,7/17/1963,Partial College,Professional,M,S,0,1,0,0,126716
+Melton,Victoria,Australia,5/12/1980,Partial College,Manual,F,M,0,1,0,0,19313
+Werne,Nordrhein-Westfalen,Germany,10/01/1951,High School,Manual,M,M,1,2,0,4,17896
+Lane Cove,New South Wales,Australia,7/06/1951,High School,Skilled Manual,M,M,1,2,0,3,58922
+Tacoma,Washington,United States,4/01/1936,Graduate Degree,Management,F,M,1,2,0,2,105605
+Münster,Saarland,Germany,11/07/1957,Partial College,Professional,M,M,0,2,4,4,172714
+Chula Vista,California,United States,9/26/1965,Bachelors ,Management,M,M,1,3,2,2,152629
+Salem,Oregon,United States,8/25/1965,Partial College,Professional,M,S,1,4,1,4,121942
+Downey,California,United States,2/07/1969,Bachelors ,Skilled Manual,F,S,0,0,2,2,41342
+Woodburn,Oregon,United States,10/02/1971,Graduate Degree,Professional,M,M,1,0,0,1,117397
+Daly City,California,United States,7/18/1965,Bachelors ,Skilled Manual,M,M,0,3,3,3,48978
+Ballard,Washington,United States,4/25/1976,High School,Skilled Manual,F,M,1,2,0,0,46914
+Langford,British Columbia,Canada,8/03/1960,Partial College,Skilled Manual,M,M,0,1,0,1,86981
+Kiel,Saarland,Germany,3/25/1961,Graduate Degree,Clerical,F,M,1,0,0,4,62083
+Puyallup,Washington,United States,10/27/1955,Partial College,Professional,M,M,1,1,2,3,107380
+Silverwater,New South Wales,Australia,10/01/1954,Partial High School,Clerical,M,S,0,2,0,3,42318
+Issaquah,Washington,United States,9/14/1943,Bachelors ,Management,M,S,1,2,0,5,119578
+Woodland Hills,California,United States,3/13/1970,Bachelors ,Skilled Manual,F,M,1,1,1,1,62594
+Lille,Nord,France,1/15/1963,Partial College,Clerical,M,S,1,0,2,2,42157
+Ballard,Washington,United States,9/26/1979,High School,Skilled Manual,M,M,1,2,0,0,56680
+Bremerton,Washington,United States,10/25/1950,Partial College,Professional,M,S,1,2,1,2,91228
+Milsons Point,New South Wales,Australia,12/17/1970,Graduate Degree,Management,M,M,1,2,5,5,145348
+Bobigny,Seine Saint Denis,France,3/06/1950,High School,Management,M,M,1,3,1,4,139530
+Downey,California,United States,7/26/1974,Partial College,Skilled Manual,M,S,1,1,0,0,51734
+North Sydney,New South Wales,Australia,2/14/1940,Bachelors ,Management,M,M,1,2,0,2,77939
+Newport Beach,California,United States,1/07/1955,Partial High School,Clerical,F,S,0,2,0,3,29599
+Seaford,Victoria,Australia,12/18/1971,Bachelors ,Professional,F,M,0,4,0,0,101162
+Roncq,Nord,France,3/09/1961,Bachelors ,Manual,M,M,1,0,0,1,27771
+San Francisco,California,United States,4/22/1967,Bachelors ,Management,F,M,1,2,0,1,104790
+Cliffside,British Columbia,Canada,5/25/1978,High School,Skilled Manual,F,M,0,2,0,0,47840
+Eilenburg,Brandenburg,Germany,1/19/1961,Graduate Degree,Clerical,F,M,1,0,0,4,70881
+London,England,United Kingdom,2/10/1972,Partial High School,Manual,M,S,0,2,0,0,25594
+Saarbrücken,Saarland,Germany,9/13/1975,High School,Manual,M,S,0,1,0,0,24166
+Saarlouis,Saarland,Germany,8/15/1962,Bachelors ,Manual,M,S,1,0,0,1,31608
+Kassel,Hessen,Germany,7/13/1977,Partial College,Clerical,F,S,1,1,0,0,46080
+West Covina,California,United States,2/16/1951,Partial College,Professional,M,M,0,2,2,4,82332
+Burbank,California,United States,5/03/1951,Partial College,Professional,M,M,1,2,1,2,96515
+Lake Oswego,Oregon,United States,5/11/1956,Partial College,Professional,M,M,1,0,3,4,99777
+München,Nordrhein-Westfalen,Germany,10/11/1978,Partial College,Clerical,M,S,0,1,4,4,52260
+Burien,Washington,United States,10/23/1957,Partial High School,Clerical,M,M,1,2,1,2,34609
+Concord,California,United States,1/11/1963,Bachelors ,Professional,F,S,0,2,2,4,90371
+Burlingame,California,United States,6/07/1963,Bachelors ,Management,F,S,1,4,2,4,128405
+Los Angeles,California,United States,3/19/1957,High School,Skilled Manual,M,M,1,2,0,2,61309
+Spring Valley,California,United States,8/09/1937,Graduate Degree,Management,F,M,1,2,3,3,148975
+Renton,Washington,United States,2/02/1962,Partial College,Skilled Manual,F,M,1,1,0,1,82391
+Werne,Nordrhein-Westfalen,Germany,3/03/1953,Bachelors ,Management,F,S,1,3,5,5,135829
+Woodland Hills,California,United States,3/18/1970,Graduate Degree,Professional,M,M,1,0,0,2,140433
+Palo Alto,California,United States,6/28/1933,Graduate Degree,Management,M,M,1,4,2,2,184897
+York,England,United Kingdom,12/03/1961,Bachelors ,Manual,F,M,1,0,0,1,20517
+Bellflower,California,United States,7/22/1974,Partial College,Professional,M,S,1,2,0,0,101507
+Portland,Oregon,United States,1/16/1971,Graduate Degree,Skilled Manual,F,M,1,0,0,1,57028
+Frankfurt am Main,Hamburg,Germany,7/17/1966,Partial High School,Manual,M,M,1,0,4,4,14562
+Hervey Bay,Queensland,Australia,3/23/1979,Bachelors ,Clerical,M,S,1,0,0,0,30824
+Cliffside,British Columbia,Canada,1/26/1966,Graduate Degree,Skilled Manual,F,S,1,0,0,0,80827
+Paderborn,Nordrhein-Westfalen,Germany,2/08/1929,High School,Manual,M,S,0,2,0,4,21679
+Shawnee,British Columbia,Canada,4/02/1965,Bachelors ,Skilled Manual,M,S,1,1,3,3,125963
+National City,California,United States,9/04/1971,Graduate Degree,Professional,M,M,1,0,0,3,111687
+Tacoma,Washington,United States,3/13/1972,Graduate Degree,Skilled Manual,F,M,1,0,0,1,87038
+Oregon City,Oregon,United States,11/07/1947,Bachelors ,Management,M,M,1,3,0,5,87085
+Royal Oak,British Columbia,Canada,6/21/1950,Partial High School,Skilled Manual,F,M,1,2,1,2,40247
+Westminster,British Columbia,Canada,4/14/1969,Graduate Degree,Professional,M,S,1,0,0,1,119828
+Santa Monica,California,United States,5/21/1974,Partial College,Skilled Manual,M,S,1,1,0,0,62337
+W. Linn,Oregon,United States,2/18/1962,Partial College,Skilled Manual,F,M,1,1,0,1,68515
+Beverly Hills,California,United States,11/08/1948,Partial College,Professional,M,M,1,2,1,2,102582
+Mill Valley,California,United States,6/21/1938,Graduate Degree,Management,M,M,1,2,0,4,139556
+Paris,Seine (Paris),France,12/09/1977,Partial College,Clerical,F,S,0,1,0,0,36660
+Neunkirchen,Saarland,Germany,8/16/1954,Partial College,Professional,M,S,1,1,2,3,117312
+Warrington,England,United Kingdom,8/23/1980,Partial High School,Manual,F,M,0,2,0,0,23449
+Townsville,Queensland,Australia,8/27/1965,Bachelors ,Professional,F,S,1,4,5,5,98331
+Darlinghurst,New South Wales,Australia,9/19/1965,Bachelors ,Professional,F,S,1,1,3,3,88800
+Cliffside,British Columbia,Canada,9/22/1951,Partial High School,Skilled Manual,F,M,1,3,1,2,47635
+Oregon City,Oregon,United States,9/12/1950,Partial College,Professional,M,S,0,2,1,2,104148
+Beaverton,Oregon,United States,3/17/1958,Graduate Degree,Skilled Manual,F,S,1,0,0,4,119133
+Bellflower,California,United States,1/27/1951,Partial College,Professional,F,M,1,1,1,2,76038
+Rockhampton,Queensland,Australia,10/13/1974,Bachelors ,Professional,F,S,0,3,0,0,89480
+Cheyenne,Wyoming,United States,1/28/1969,Graduate Degree,Professional,M,M,1,0,0,5,122608
+Gateshead,England,United Kingdom,11/12/1954,High School,Professional,M,S,1,2,1,3,128720
+Concord,California,United States,3/04/1956,Partial College,Clerical,F,M,1,1,0,1,64468
+Orly,Val de Marne,France,10/19/1969,Partial College,Manual,M,S,0,1,0,0,19194
+Burien,Washington,United States,11/19/1975,Partial College,Skilled Manual,M,S,1,2,0,0,50494
+York,England,United Kingdom,7/23/1941,Bachelors ,Clerical,M,S,0,0,0,1,65238
+West Sussex,England,United Kingdom,6/10/1945,Graduate Degree,Management,M,M,0,4,4,4,178373
+Runcorn,England,United Kingdom,6/12/1946,Bachelors ,Management,M,S,0,4,4,4,167054
+Hervey Bay,Queensland,Australia,9/03/1960,Partial College,Skilled Manual,M,M,1,3,4,5,100653
+Daly City,California,United States,7/10/1963,Bachelors ,Management,M,M,1,0,3,5,171379
+Goulburn,New South Wales,Australia,2/09/1961,Partial College,Skilled Manual,M,M,1,1,0,1,89465
+North Sydney,New South Wales,Australia,3/16/1970,High School,Management,F,M,1,4,5,5,115361
+Maidenhead,England,United Kingdom,8/18/1969,Graduate Degree,Clerical,M,S,1,0,0,0,90438
+San Gabriel,California,United States,10/08/1954,Partial College,Clerical,M,M,1,1,0,1,53572
+Colombes,Hauts de Seine,France,10/04/1943,Partial College,Manual,F,S,0,1,0,3,13511
+Hamburg,Hamburg,Germany,11/05/1949,Partial College,Management,M,M,1,3,5,5,156982
+Lebanon,Oregon,United States,5/03/1965,Graduate Degree,Professional,F,M,1,0,0,0,81160
+Lincoln Acres,California,United States,2/25/1948,Bachelors ,Management,M,M,1,0,1,2,87335
+Solingen,Nordrhein-Westfalen,Germany,7/20/1958,Bachelors ,Management,F,M,0,4,3,3,133419
+Orly,Val de Marne,France,2/06/1978,Partial College,Clerical,F,S,1,2,3,3,45885
+Silverwater,New South Wales,Australia,7/05/1967,Bachelors ,Professional,F,S,1,4,5,5,82935
+Lancaster,England,United Kingdom,2/22/1944,Bachelors ,Management,M,M,1,4,4,4,176428
+Cheltenham,England,United Kingdom,7/21/1953,Partial College,Professional,F,M,1,2,2,4,105288
+Langford,British Columbia,Canada,11/19/1969,Graduate Degree,Professional,F,M,0,0,0,2,106829
+Peterborough,England,United Kingdom,1/18/1969,Graduate Degree,Skilled Manual,F,S,0,0,0,0,97084
+Erlangen,Bayern,Germany,4/26/1950,Partial College,Management,F,S,0,4,4,4,110762
+Torrance,California,United States,11/18/1937,Bachelors ,Management,F,S,0,4,3,3,138097
+Mill Valley,California,United States,4/11/1957,Partial College,Professional,F,M,1,1,0,2,101465
+Matraville,New South Wales,Australia,3/18/1947,High School,Skilled Manual,F,S,0,2,0,4,19108
